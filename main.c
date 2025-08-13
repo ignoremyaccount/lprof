@@ -1,7 +1,7 @@
 #include <unistd.h>
-#include <fcntl.h>
 #include <string.h>
-#include <stdio.h>
+#include <stdlib.h>
+#include <fcntl.h>
 
 /* the blacklist */
 #define __lprof_num_strings_dev 12 
